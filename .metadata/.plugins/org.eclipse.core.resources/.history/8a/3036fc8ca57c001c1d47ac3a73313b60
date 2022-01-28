@@ -1,0 +1,14 @@
+import javax.swing.*;
+
+public class TeacherForm {
+	public TeacherForm() {
+		
+	}
+	
+	public JPanel getPanel() {
+		return mainPanel;
+	}
+
+	private JPanel mainPanel;
+	private JLabel welcomeMessage;
+}

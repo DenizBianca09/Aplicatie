@@ -1,0 +1,22 @@
+import java.awt.BorderLayout;
+
+import javax.swing.*;
+import javax.swing.SpringLayout.Constraints;
+
+public class TeacherForm {
+	public TeacherForm() {
+		mainPanel = new JPanel();
+		mainPanel.setLayout(new BorderLayout());
+		welcomeMessage = new JLabel("Welcome " + Application.getInstance().currentUser.userName);
+		mainPanel.add(welcomeMessage, BorderLayout.NORTH);
+		mainPanel.setVisible(true);
+	}
+
+	public JPanel getPanel() {
+		return mainPanel;
+	}
+
+	private JPanel mainPanel;
+	private JLabel welcomeMessage;
+	private JTextArea textArea;
+}

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.1" class="java.beans.XMLDecoder">
+ <array class="Profesor" length="11">
+  <void index="0">
+   <object class="Profesor" id="Profesor0">
+    <void class="Profesor" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Profesor0"/>
+      <string>URSUTIU</string>
+     </void>
+    </void>
+    <void class="Profesor" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Profesor0"/>
+      <string>DORU</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="Profesor" id="Profesor1">
+    <void class="Profesor" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Profesor1"/>
+      <string>PANA</string>
+     </void>
+    </void>
+    <void class="Profesor" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Profesor1"/>
+      <string>GHEORGHE</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="2">
+   <object class="Profesor" id="Profesor2">
+    <void class="Profesor" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Profesor2"/>
+      <string>ALEXANDRU</string>
+     </void>
+    </void>
+    <void class="Profesor" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Profesor2"/>
+      <string>MARIAN</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="3">
+   <object class="Profesor" id="Profesor3">
+    <void class="Profesor" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Profesor3"/>
+      <string>CRETU </string>
+     </void>
+    </void>
+    <void class="Profesor" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Profesor3"/>
+      <string>NICOLAE CONSTANTIN</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="4">
+   <object class="Profesor" id="Profesor4">
+    <void class="Profesor" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Profesor4"/>
+      <string>KRISTALY</string>
+     </void>
+    </void>
+    <void class="Profesor" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Profesor4"/>
+      <string>DOMINIC</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="5">
+   <object class="Profesor" id="Profesor5">
+    <void class="Profesor" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Profesor5"/>
+      <string>DANILA</string>
+     </void>
+    </void>
+    <void class="Profesor" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Profesor5"/>
+      <string>ADRIAN</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="6">
+   <object class="Profesor" id="Profesor6">
+    <void class="Profesor" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Profesor6"/>
+      <string>DEMETER</string>
+     </void>
+    </void>
+    <void class="Profesor" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Profesor6"/>
+      <string>ROBERT</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="7">
+   <object class="Profesor" id="Profesor7">
+    <void class="Profesor" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Profesor7"/>
+      <string>DIACONU</string>
+     </void>
+    </void>
+    <void class="Profesor" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Profesor7"/>
+      <string>LAURENTIU</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="8">
+   <object class="Profesor" id="Profesor8">
+    <void class="Profesor" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Profesor8"/>
+      <string>ILEA</string>
+     </void>
+    </void>
+    <void class="Profesor" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Profesor8"/>
+      <string>GELU</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="9">
+   <object class="Profesor" id="Profesor9">
+    <void class="Profesor" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Profesor9"/>
+      <string>POP</string>
+     </void>
+    </void>
+    <void class="Profesor" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Profesor9"/>
+      <string>MIHAIL</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="10">
+   <object class="Profesor" id="Profesor10">
+    <void class="Profesor" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Profesor10"/>
+      <string>BOER</string>
+     </void>
+    </void>
+    <void class="Profesor" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Profesor10"/>
+      <string>ATTILA</string>
+     </void>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>

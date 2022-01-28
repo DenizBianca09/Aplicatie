@@ -1,0 +1,31 @@
+import java.awt.BorderLayout;
+
+import javax.swing.*;
+
+public class TeacherForm {
+	public TeacherForm() {
+		mainPanel = new JPanel();
+		mainPanel.setLayout(new BorderLayout());
+		welcomeMessage = new JLabel("Welcome teacher " + Application.getInstance().currentUser.userName + "\n");
+		mainPanel.add(welcomeMessage, BorderLayout.NORTH);
+		displayCursuri();
+		mainPanel.setVisible(true);
+	}
+
+	public JPanel getPanel() {
+		return mainPanel;
+	}
+
+	private void displayCursuri() {
+		textArea = new JTextArea();
+		HardcodatDataManager dataManager = new HardcodatDataManager();
+		for (Curs c : dataManager.createCoursesData()) {
+			textArea.append(c.nume + "\n");
+		}
+		mainPanel.add(textArea, BorderLayout.CENTER);
+	}
+
+	private JPanel mainPanel;
+	private JLabel welcomeMessage;
+	private JTextArea textArea;
+}

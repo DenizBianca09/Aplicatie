@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.1" class="java.beans.XMLDecoder">
+ <array class="Student" length="38">
+  <void index="0">
+   <object class="Student" id="Student0">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student0"/>
+      <string>Jarcau</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student0"/>
+      <string>Stefan</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student0"/>
+      <int>4</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="Student" id="Student1">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student1"/>
+      <string>Oprea</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student1"/>
+      <string>Ionut</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student1"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="2">
+   <object class="Student" id="Student2">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student2"/>
+      <string>Solomon</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student2"/>
+      <string>Andrei</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student2"/>
+      <int>4</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="3">
+   <object class="Student" id="Student3">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student3"/>
+      <string>Patrascu</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student3"/>
+      <string>Nicolae</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student3"/>
+      <int>3</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="4">
+   <object class="Student" id="Student4">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student4"/>
+      <string>Damian</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student4"/>
+      <string>Maria</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student4"/>
+      <int>4</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="5">
+   <object class="Student" id="Student5">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student5"/>
+      <string>Cristea</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student5"/>
+      <string>Florinela</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student5"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="6">
+   <object class="Student" id="Student6">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student6"/>
+      <string>Visoiu</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student6"/>
+      <string>Andrei</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student6"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="7">
+   <object class="Student" id="Student7">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student7"/>
+      <string>Andrei</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student7"/>
+      <string>Mihai</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student7"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="8">
+   <object class="Student" id="Student8">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student8"/>
+      <string>Petreanu</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student8"/>
+      <string>Marius</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student8"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="9">
+   <object class="Student" id="Student9">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student9"/>
+      <string>Dragomir</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student9"/>
+      <string>Sergiu</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student9"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="10">
+   <object class="Student" id="Student10">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student10"/>
+      <string>Gavrila</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student10"/>
+      <string>Iulian</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student10"/>
+      <int>4</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="11">
+   <object class="Student" id="Student11">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student11"/>
+      <string>Suciu</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student11"/>
+      <string>Mihai</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student11"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="12">
+   <object class="Student" id="Student12">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student12"/>
+      <string>Rotaru</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student12"/>
+      <string>Daria</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student12"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="13">
+   <object class="Student" id="Student13">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student13"/>
+      <string>Grigorescu</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student13"/>
+      <string>Stefan</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student13"/>
+      <int>3</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="14">
+   <object class="Student" id="Student14">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student14"/>
+      <string>Dudulescu</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student14"/>
+      <string>Stefan</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student14"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="15">
+   <object class="Student" id="Student15">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student15"/>
+      <string>Stanculescu</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student15"/>
+      <string>Daniel</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student15"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="16">
+   <object class="Student" id="Student16">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student16"/>
+      <string>Vajaiac</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student16"/>
+      <string>Marius</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student16"/>
+      <int>4</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="17">
+   <object class="Student" id="Student17">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student17"/>
+      <string>Istudor</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student17"/>
+      <string>Cristian</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student17"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="18">
+   <object class="Student" id="Student18">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student18"/>
+      <string>Bruma</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student18"/>
+      <string>Daniel</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student18"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="19">
+   <object class="Student" id="Student19">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student19"/>
+      <string>Neagu</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student19"/>
+      <string>Elena</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student19"/>
+      <int>4</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="20">
+   <object class="Student" id="Student20">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student20"/>
+      <string>Popa</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student20"/>
+      <string>Ana-Maria</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student20"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="21">
+   <object class="Student" id="Student21">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student21"/>
+      <string>Gribincea</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student21"/>
+      <string>Valentina</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student21"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="22">
+   <object class="Student" id="Student22">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student22"/>
+      <string>Cucu</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student22"/>
+      <string>Ioana</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student22"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="23">
+   <object class="Student" id="Student23">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student23"/>
+      <string>Milea</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student23"/>
+      <string>Daniel</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student23"/>
+      <int>4</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="24">
+   <object class="Student" id="Student24">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student24"/>
+      <string>Coca</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student24"/>
+      <string>Paul</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student24"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="25">
+   <object class="Student" id="Student25">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student25"/>
+      <string>Iorga</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student25"/>
+      <string>Bianca</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student25"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="26">
+   <object class="Student" id="Student26">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student26"/>
+      <string>Budau</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student26"/>
+      <string>David</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student26"/>
+      <int>3</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="27">
+   <object class="Student" id="Student27">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student27"/>
+      <string>Maracineanu</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student27"/>
+      <string>Constantin</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student27"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="28">
+   <object class="Student" id="Student28">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student28"/>
+      <string>Pascociu</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student28"/>
+      <string>Andreea</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student28"/>
+      <int>3</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="29">
+   <object class="Student" id="Student29">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student29"/>
+      <string>Ionita</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student29"/>
+      <string>Cezar</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student29"/>
+      <int>3</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="30">
+   <object class="Student" id="Student30">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student30"/>
+      <string>Paltanea</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student30"/>
+      <string>Auras</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student30"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="31">
+   <object class="Student" id="Student31">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student31"/>
+      <string>Spunei</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student31"/>
+      <string>Razvan</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student31"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="32">
+   <object class="Student" id="Student32">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student32"/>
+      <string>Stoian</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student32"/>
+      <string>Emanuel</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student32"/>
+      <int>3</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="33">
+   <object class="Student" id="Student33">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student33"/>
+      <string>Raulea</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student33"/>
+      <string>Andrei</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student33"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="34">
+   <object class="Student" id="Student34">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student34"/>
+      <string>Trifan</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student34"/>
+      <string>Ioan</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student34"/>
+      <int>4</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="35">
+   <object class="Student" id="Student35">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student35"/>
+      <string>Visan</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student35"/>
+      <string>Marian</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student35"/>
+      <int>1</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="36">
+   <object class="Student" id="Student36">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student36"/>
+      <string>Rusu</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student36"/>
+      <string>Victor</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student36"/>
+      <int>2</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void index="37">
+   <object class="Student" id="Student37">
+    <void class="Student" method="getField">
+     <string>nume</string>
+     <void method="set">
+      <object idref="Student37"/>
+      <string>Silitra</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>prenume</string>
+     <void method="set">
+      <object idref="Student37"/>
+      <string>Florin</string>
+     </void>
+    </void>
+    <void class="Student" method="getField">
+     <string>grupa</string>
+     <void method="set">
+      <object idref="Student37"/>
+      <int>3</int>
+     </void>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>

@@ -1,0 +1,9 @@
+import javax.swing.*;
+
+public class TeacherForm {
+	public JPanel getPanel() {
+		return panel1;
+	}
+
+	private JPanel mainPanel;
+}

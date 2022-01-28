@@ -1,0 +1,20 @@
+import javax.swing.*;
+
+public class TeacherForm {
+	public TeacherForm() {
+		mainPanel = new JPanel();
+		mainPanel.setLayout(null);
+		welcomeMessage = new JLabel("Welcome " + Application.getInstance().currentUser.userName);
+		System.out.print(welcomeMessage.getText());
+		welcomeMessage.setLocation(150, 20);
+		mainPanel.add(welcomeMessage);
+		mainPanel.setVisible(true);
+	}
+
+	public JPanel getPanel() {
+		return mainPanel;
+	}
+
+	private JPanel mainPanel;
+	private JLabel welcomeMessage;
+}
